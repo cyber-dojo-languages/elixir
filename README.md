@@ -1,3 +1,3 @@
-# elixir 1.2.5
+# elixir 1.4.2
 
-![Build Status](https://travis-ci.org/cyber-dojo-languages/elixir-1.2.5.svg?branch=master)
+![Build Status](https://travis-ci.org/cyber-dojo-languages/elixir-1.4.2.svg?branch=master)
