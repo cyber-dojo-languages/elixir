@@ -1,6 +1,7 @@
-# Elixir
 
-![Build Status](https://travis-ci.org/cyber-dojo-languages/elixir.svg?branch=master)
+[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/elixir.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/elixir)
+
+## image_name="cyberdojofoundation/elixir"
 
 [Version=1.7.4](https://github.com/cyber-dojo-languages/elixir/blob/master/check_version.sh)
 
