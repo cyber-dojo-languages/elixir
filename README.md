@@ -1,5 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/elixir.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/elixir)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
-## image_name="cyberdojofoundation/elixir"
+## display_name="Elixir 1.19.5"
+## image_name=[ghcr.io/cyber-dojo-languages/elixir](https://ghcr.io/cyber-dojo-languages/elixir)
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)

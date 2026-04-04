@@ -1,4 +1,4 @@
-FROM cyberdojofoundation/alpine_glibc:7becbb4
+FROM elixir:otp-28-alpine
 LABEL maintainer=jon@jaggersoft.com
 
-RUN apk add elixir
+#RUN apk add elixir
