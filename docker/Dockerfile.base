@@ -1,4 +1,2 @@
-FROM elixir:otp-28-alpine
+FROM elixir:otp-28-slim
 LABEL maintainer=jon@jaggersoft.com
-
-#RUN apk add elixir
