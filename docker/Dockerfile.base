@@ -1,2 +1,6 @@
-FROM elixir:otp-28-slim
+# The floating slim tag, so a rebuild picks up the newest stable release of
+# elixir and of the OTP it is built against. It is published as an index
+# holding real amd64 and arm64 layers, so each runner builds from binaries
+# its own kernel can exec.
+FROM elixir:slim
 LABEL maintainer=jon@jaggersoft.com
