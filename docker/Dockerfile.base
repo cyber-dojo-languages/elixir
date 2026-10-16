@@ -4,3 +4,6 @@
 # its own kernel can exec.
 FROM elixir:slim
 LABEL maintainer=jon@jaggersoft.com
+
+COPY install.sh .
+RUN ./install.sh && rm ./install.sh
